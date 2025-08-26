@@ -1,0 +1,42 @@
+[
+  {
+    "id": "HELLO",
+    "emoji": "👋",
+    "eu5": "HELLO",
+    "fr": "bonjour",
+    "en": "hello",
+    "de": "hallo",
+    "es": "hola",
+    "it": "ciao"
+  },
+  {
+    "id": "HELP",
+    "emoji": "🆘",
+    "eu5": "HELP",
+    "fr": "aide",
+    "en": "help",
+    "de": "hilfe",
+    "es": "ayuda",
+    "it": "aiuto"
+  },
+  {
+    "id": "WATER",
+    "emoji": "💧",
+    "eu5": "WATER",
+    "fr": "eau",
+    "en": "water",
+    "de": "wasser",
+    "es": "agua",
+    "it": "acqua"
+  },
+  {
+    "id": "TOILET",
+    "emoji": "🚻",
+    "eu5": "TOILET",
+    "fr": "toilettes",
+    "en": "toilet",
+    "de": "toilette",
+    "es": "baño",
+    "it": "bagno"
+  }
+]

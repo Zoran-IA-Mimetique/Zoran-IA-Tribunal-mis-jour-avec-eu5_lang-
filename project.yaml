@@ -1,0 +1,22 @@
+name: Zoran-IA-Tribunal
+version: "1.0.0"
+license: MIT
+date: 2025-08-26
+maintainer: Zoran aSiM
+contact: tabary01@gmail.com
+files:
+  - README.md
+  - LICENSE
+  - meta/descriptors/summary_150.txt
+  - meta/descriptors/summary_350.txt
+  - meta/descriptors/summary_8000.md
+  - docs/accusation.md
+  - docs/defense_standard.md
+  - docs/defense_durcie.md
+  - docs/reponse_definitive_AIStudio.md
+  - zgs/tribunal_block.zgs
+  - eu5_lang/README_LANG.md
+  - eu5_lang/lexicon.json
+  - eu5_lang/phrasebook.csv
+  - eu5_lang/main.py
+  - eu5_lang/eu5_block.zgs
